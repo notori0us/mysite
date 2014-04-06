@@ -11,14 +11,14 @@ article { padding-left:1em; }
 /* Base.html - top navigation */
 .top-bar {
 /* 2BA6E3 #2B0034 */
-background: #2B0034; /* Header color */
+background: #000000; /* Header color */
+
 height: 100%; 
 margin-bottom: 1em; 
 }
 
 .top-bar a { color: #fff } /* Sitename color */
 ul.button-group.navigation { margin-bottom: 1em; }
-
 
 /* Base.html sidebar */
 h5.sidebar-title {
@@ -31,11 +31,20 @@ text-transform: uppercase;
 .side-nav li a { color: #222}
 .side-nav { padding: 0.5em 0; }
 
+/*
+a{
+	color: #BB0000
+}
+a:hover {
+	color: #BB0000
+}
+*/
+
 
 /* Index.html - posts */
 h3.article-title {
 margin-bottom: 0em; 
-color: #3A91CB;
+color: #BB0000;
 }
 
 
