@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Chris Wallace'
 SITENAME = u'Home Page of Chris Wallace'
-SITEURL = ''
+SITEURL = 'http://notoriouscw.com'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
@@ -18,14 +18,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('My CSE Page', 'http://cse.osu.edu/~wallacch'),
+          ('Hack.OSU', 'http://www.osuhackathon.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://twitter.com/@notorious_cw'),
+        ('LinkedIn', 'https://www.linkedin.com/pub/christopher-wallace/66/830/b88'),)
 
 DEFAULT_PAGINATION = 10
 
