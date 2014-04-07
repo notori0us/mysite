@@ -67,6 +67,7 @@ a.article-info { color: #aaa; }
 .table-archive { border: none; }
 
 footer {
+  margin-top: -70px 0 0 0;
   padding-top: 1.0625rem;
   clear: both;
   position: relative;
