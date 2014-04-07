@@ -10,7 +10,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = u'en'
 
-THEME = "zurb-F5-basic"
+THEME = "theme"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -18,8 +18,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('My CSE Page', 'http://cse.osu.edu/~wallacch'),
-          ('Hack.OSU', 'http://www.osuhackathon.org/'),)
+LINKS =  ( ('Resume', '/files/resume.pdf'),
+    ('My CSE Page', 'http://cse.osu.edu/~wallacch'),
+    ('Hack.OSU', 'http://www.osuhackathon.org/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/@notorious_cw'),
