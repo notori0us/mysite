@@ -4,7 +4,7 @@ Title: Technical Skills
 Proficiently, I know the following languages: C, C++, Java, Python, Ruby,
 Javascript, bash, MATLAB, and LaTeX. 
 I have some kind of experience or exposure to the following languages:
-Common LISP, scheme, perl, and php
+Common LISP, scheme, perl, and php, css
 
 #### software development
 I have had experience with the agile software development methodology. Also,
@@ -14,8 +14,11 @@ easier. These include distributed version control systems (git, hg, bzr),
 finally a suite of debuggers (primarily gdb).
 
 #### web development
-Through hackathons and personal projects, I have learned MVC web development
-using frameworks like python/django and ruby/rails.
+At IBM, I worked for a significant amount of time writing Javascript with Dojo,
+giving me a solid base of experience with AJAX and REST calls. Through
+hackathons and personal projects, I have learned MVC web development using
+frameworks like python/django and ruby/rails. Additionally through these
+projects I have learned css and sass/scss to a degree.
 
 #### system administration
 I have reasonably extensive experience managing Windows systems with Active
