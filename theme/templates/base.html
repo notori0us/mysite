@@ -17,42 +17,44 @@
 
 	<div id="not-footer">
 		<!-- Nav Bar -->
-		<nav>
-		<div class="top-bar">
-			<div class="row">
-				<!--
-				<div class="large-9 large-centered columns">
-					<h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+		<div class="contain-to-grid">
+			<nav>
+			<div class="top-bar data-topbar">
+				<div class="row">
+					<!--
+					<div class="large-9 large-centered columns">
+						<h1><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+					</div>
+					-->
+					<ul class="title-area">
+						<li class="name">
+						<h1><a href="{{SITEURL}}">{{ SITENAME }}</a></h1>
+						</li>
+						<!--    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li> -->
+					</ul>
+
+					<section class="top-bar-section">
+					<ul class="right">
+						{% for title, link in MENUITEMS %}
+						<li><a href="{{ link }}" class="">{{ title }}</a></li>
+						{% endfor %}
+
+						{% if DISPLAY_PAGES_ON_MENU %}
+						{% for page in PAGES %}
+						<li><a href="{{ SITEURL }}/{{ page.url }}" class="">{{ page.title }}</a></li>
+						{% endfor %}
+						{% endif %}
+					</ul>
+					</section>
 				</div>
-				-->
-				<ul class="title-area">
-					<li class="name">
-					<h1><a href="{{SITEURL}}">{{ SITENAME }}</a></h1>
-					</li>
-					<!--    <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li> -->
-				</ul>
-
-				<section class="top-bar-section">
-				<ul class="right">
-					{% for title, link in MENUITEMS %}
-					<li><a href="{{ link }}" class="">{{ title }}</a></li>
-					{% endfor %}
-
-					{% if DISPLAY_PAGES_ON_MENU %}
-					{% for page in PAGES %}
-					<li><a href="{{ SITEURL }}/{{ page.url }}" class="">{{ page.title }}</a></li>
-					{% endfor %}
-					{% endif %}
-				</ul>
-				</section>
 			</div>
+
+			<!-- Show menu items and pages -->
+			<ul class="button-group navigation">
+
+			</ul>
+			</nav>
 		</div>
-
-		<!-- Show menu items and pages -->
-		<ul class="button-group navigation">
-
-		</ul>
-		</nav>
 		<!-- End Nav -->
 
 
