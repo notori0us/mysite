@@ -18,5 +18,5 @@ and what really attracts me to computing.
 
 #### what else do you do?
 Well, [I like cars](/files/static-site-images/240d.jpg), and I particularly
-enjoy FIA Formula 1. Also, I enjoy tinkering with things, riding motorcycles,
-and seeing my family.
+enjoy [FIA Formula 1](https://en.wikipedia.org/wiki/Formula_One). Also, I enjoy
+tinkering with things, riding motorcycles, and seeing my family.
