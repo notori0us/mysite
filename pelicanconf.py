@@ -20,6 +20,7 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  ( ('Resume', '/files/resume.pdf'),
     ('My CSE Page', 'http://cse.osu.edu/~wallacch'),
+    ('Github', 'http://github.com/notori0us'),
     ('Hack.OSU', 'http://www.osuhackathon.org/'),)
 
 # Social widget
