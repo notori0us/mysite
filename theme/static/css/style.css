@@ -1,5 +1,11 @@
 /* Misc */
-body { word-wrap:break-word; }
+html {
+	height: 100%;
+}
+body {
+	word-wrap:break-word;
+	height: 100%;
+}
 
 ol li ul, ol li ol { 
 margin-bottom: 1.25em;
@@ -41,6 +47,10 @@ a:hover {
 */
 
 
+h3.page-title {
+color: #BB0000;
+}
+
 /* Index.html - posts */
 h3.article-title {
 margin-bottom: 0em; 
@@ -56,6 +66,25 @@ a.article-info { color: #aaa; }
 /* Archives.html */
 .table-archive { border: none; }
 
+footer {
+  padding-top: 1.0625rem;
+  clear: both;
+  position: relative;
+  height: 70px;
+  color: #fff;
+  background-color: #373535;
+}
+#not-footer{
+  clear:both;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -70px;
+  padding-bottom: 70px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
 
 /* Index.html - line separator for posts */
 hr.gradient {
