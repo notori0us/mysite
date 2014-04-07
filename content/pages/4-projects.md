@@ -15,7 +15,7 @@ Seeing this as an issue, I created a simple logging page to teach myself
 Django. This application stores student involvement in a database which
 can be retrieved and emailed to the user.
 
-[github](https://github.com/notori0us/geswebsite) / [live site](osugreenscholars.org)
+[github](https://github.com/notori0us/geswebsite) / [live site](https://osugreenscholars.org)
 
 #### the osc librarian
 A ruby/rails application for managing physical assets of the Open Source Club.
