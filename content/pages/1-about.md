@@ -14,7 +14,7 @@ the rest is history.
 #### why computer science?
 I am driven by the fact that, with computers, we have the ability to
 make anything possible. This drives me to learn more and more about this field,
-and what really attracts me to computing.
+and is what really attracts me to computing.
 
 #### what else do you do?
 Well, [I like cars](/files/static-site-images/240d.jpg), and I particularly
