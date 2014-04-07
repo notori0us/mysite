@@ -9,8 +9,9 @@ from a variety of different speakers.
 One speaker from Michigan State University gave a presentation on a model for
 UML diagrams for blind programmers, which I found very interesting. Some of the problems
 detailed were the difficulties in how useful diagrams are visually, but not
-with feel or audio.
+with feel or audio. Eventually, the research group plans to open source their
+creation so that more people in the community can benefit.
 
 
-![A shot of downtown detroit]({filename}/images/1-detroit.jpg)
-![Public housing in the process of demolition]({filename}/images/1-decrepit-housing.jpg)
+[A shot of downtown detroit]({filename}/images/1-detroit.jpg)
+[Public housing in the process of demolition]({filename}/images/1-decrepit-housing.jpg)
