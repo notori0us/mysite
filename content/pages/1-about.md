@@ -7,7 +7,7 @@ university, and I have been finding my own way ever since.
 #### why notori0us?
 I sometimes get asked about my username/nick. At orientation, I met someone
 (who I currently live with) who, after hearing my name was Chris Wallace
-exclaimed "NOTORIOUS!". Confused, I asked him for an explanation and he told me
+exclaimed "NOTORIOUS!". Confused, I asked him for an explanation to which he told me
 a little about [this man](https://en.wikipedia.org/wiki/The_Notorious_BIG), and
 the rest is history.
 
