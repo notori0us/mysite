@@ -113,3 +113,24 @@ overflow: auto;
 }
 
 body { background-color: #fffff9; }
+
+footer p.copyright {
+	margin: 6px 0 0;
+	font-size: 0.75rem;
+	color: #666;
+}
+
+footer p.pelican-note {
+	margin: 6px 0 0;
+	font-size: 0.75rem;
+	text-align: right;
+	color: #666;
+}
+
+footer a {
+	color: #666;
+}
+
+footer a:hover {
+	color: #777;
+}
