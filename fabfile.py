@@ -7,7 +7,7 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'root@notoriouscw.com:22'
+production = 'root@chriswallace.io:443'
 dest_path = '/var/www/notorious'
 
 # Rackspace Cloud Files configuration settings
