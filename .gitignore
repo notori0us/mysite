@@ -6,6 +6,8 @@
 
 # Ignore the output
 /output
+# ignore cache
+/cache
 
 # ignore the pid files
 *.pid
