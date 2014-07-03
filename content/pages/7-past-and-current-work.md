@@ -4,8 +4,14 @@ I have, in a relatively short time, had the opportunities to work in a variety
 of environments, each of which giving me opportunities to learn and expand my
 skills.
 
+#### cigital, inc
+##### software security intern (current)
+As an intern at Cigital, I was able to be a billable consultant on multiple
+projects with a major focus in secure code review. In addition, I got a lot of
+exposure to mobile code, best practices for security, and penetration testing.
+
 #### knowlton school of architecture
-##### student it staff (current)
+##### student it staff (sp13-current)
 At Knowlton I provide a wide range of IT services to students and faculty at
 the school of Architecture. During my time here, I have tried to automate
 things that often burned our time, such as data entry from forms. I
@@ -13,10 +19,9 @@ achieved this by developing some software that allows for a self-serve kiosk to
 help automate data entry.
 
 #### computer science and engineering
-##### grader (current)
+##### grader (au13-current)
 I assist an instructor by grading for a class: CSE 2421 Systems 1 (C
 programming and assembly). I also put on review sessions and hold office hours.
-
 
 #### international business machines
 ##### software developer intern (summer 2013)
