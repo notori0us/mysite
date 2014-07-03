@@ -12,8 +12,8 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=notoriouscw.com
-SSH_PORT=22
+SSH_HOST=chriswallace.io
+SSH_PORT=443
 SSH_USER=root
 SSH_TARGET_DIR=/var/www/notorious
 
